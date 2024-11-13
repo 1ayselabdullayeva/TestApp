@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Projects\\TestFileWatcher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8741DB22-D511-4201-A9AF-3A5673798F29}|Presentation\\Presentation.csproj|D:\\Projects\\TestFileWatcher\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8741DB22-D511-4201-A9AF-3A5673798F29}|Presentation\\Presentation.csproj|D:\\Projects\\TestFileWatcher\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8741DB22-D511-4201-A9AF-3A5673798F29}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8741DB22-D511-4201-A9AF-3A5673798F29}|Presentation\\Presentation.csproj|d:\\projects\\testfilewatcher\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8741DB22-D511-4201-A9AF-3A5673798F29}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,15 +19,11 @@
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\helper\\pluginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8741DB22-D511-4201-A9AF-3A5673798F29}|Presentation\\Presentation.csproj|d:\\projects\\testfilewatcher\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8741DB22-D511-4201-A9AF-3A5673798F29}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|D:\\Projects\\TestFileWatcher\\filewatcher\\helper\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\helper\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|d:\\projects\\testfilewatcher\\filewatcher\\services\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|D:\\Projects\\TestFileWatcher\\filewatcher\\services\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\services\\abstract\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,19 +35,19 @@
       "RelativeMoniker": "D:0:0:{8741DB22-D511-4201-A9AF-3A5673798F29}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|d:\\projects\\testfilewatcher\\filewatcher\\services\\abstract\\imonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|D:\\Projects\\TestFileWatcher\\filewatcher\\services\\abstract\\imonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\services\\abstract\\imonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|d:\\projects\\testfilewatcher\\filewatcher\\services\\concrete\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|D:\\Projects\\TestFileWatcher\\filewatcher\\services\\concrete\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\services\\concrete\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|d:\\projects\\testfilewatcher\\filewatcher\\services\\concrete\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|D:\\Projects\\TestFileWatcher\\filewatcher\\services\\concrete\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\services\\concrete\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|d:\\projects\\testfilewatcher\\filewatcher\\loaders\\concrete\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|D:\\Projects\\TestFileWatcher\\filewatcher\\loaders\\concrete\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\loaders\\concrete\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -55,7 +55,7 @@
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\models\\common\\tradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|d:\\projects\\testfilewatcher\\filewatcher\\loaders\\concrete\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|D:\\Projects\\TestFileWatcher\\filewatcher\\loaders\\concrete\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B6CAFCF-AD48-4652-91C0-A3E68AB1BAFA}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\loaders\\concrete\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -78,17 +78,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 868,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Projects\\TestFileWatcher\\Presentation\\Form1.cs",
               "RelativeDocumentMoniker": "Presentation\\Form1.cs",
               "ToolTip": "D:\\Projects\\TestFileWatcher\\Presentation\\Form1.cs",
               "RelativeToolTip": "Presentation\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAmAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowBQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T13:26:59.685Z",
               "IsPinned": true,
@@ -116,12 +116,11 @@
               "RelativeToolTip": "FileWatcher\\FileWatcher.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T13:22:39.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:22:39.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ILoader.cs",
               "DocumentMoniker": "D:\\Projects\\TestFileWatcher\\FileWatcher\\Loaders\\Abstract\\ILoader.cs",
               "RelativeDocumentMoniker": "FileWatcher\\Loaders\\Abstract\\ILoader.cs",
@@ -129,8 +128,7 @@
               "RelativeToolTip": "FileWatcher\\Loaders\\Abstract\\ILoader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:19:02.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:19:02.774Z"
             },
             {
               "$type": "Document",
@@ -154,8 +152,7 @@
               "RelativeToolTip": "FileWatcher\\Helper\\Settings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:23:22.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:23:22.104Z"
             },
             {
               "$type": "Document",
@@ -167,25 +164,24 @@
               "RelativeToolTip": "FileWatcher\\Services\\Abstract\\IFileService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:11:33.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T17:11:33.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\TestFileWatcher\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Program.cs",
               "ToolTip": "D:\\Projects\\TestFileWatcher\\Presentation\\Program.cs",
               "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T13:26:32.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PluginManager.cs",
               "DocumentMoniker": "D:\\Projects\\TestFileWatcher\\FileWatcher\\Helper\\PluginManager.cs",
               "RelativeDocumentMoniker": "FileWatcher\\Helper\\PluginManager.cs",
@@ -193,8 +189,7 @@
               "RelativeToolTip": "FileWatcher\\Helper\\PluginManager.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAAACQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:22:58.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:22:58.654Z"
             },
             {
               "$type": "Document",
@@ -206,8 +201,7 @@
               "RelativeToolTip": "Presentation\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-13T14:02:38.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T14:02:38.769Z"
             },
             {
               "$type": "Document",
@@ -219,8 +213,7 @@
               "RelativeToolTip": "FileWatcher\\Loaders\\Concrete\\TxtLoader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:36:21.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T15:36:21.728Z"
             },
             {
               "$type": "Document",
@@ -232,8 +225,7 @@
               "RelativeToolTip": "FileWatcher\\Loaders\\Concrete\\XmlLoader.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:37:10.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T15:37:10.947Z"
             },
             {
               "$type": "Document",
@@ -245,8 +237,7 @@
               "RelativeToolTip": "FileWatcher\\Services\\Abstract\\IMonitorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T17:12:01.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T17:12:01.985Z"
             },
             {
               "$type": "Document",
@@ -258,8 +249,7 @@
               "RelativeToolTip": "FileWatcher\\Services\\Concrete\\FileService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:16:47.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:16:47.161Z"
             },
             {
               "$type": "Document",
@@ -284,8 +274,7 @@
               "RelativeToolTip": "FileWatcher\\Loaders\\Concrete\\CsvLoader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:18:27.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:18:27.556Z"
             },
             {
               "$type": "Document",
@@ -297,8 +286,7 @@
               "RelativeToolTip": "FileWatcher\\Models\\Common\\TradeData.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAQwAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:20:27.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:20:27.907Z"
             },
             {
               "$type": "Document",
@@ -310,8 +298,7 @@
               "RelativeToolTip": "FileWatcher\\Services\\Concrete\\MonitorService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAwwBEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:15:59.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T13:15:59.173Z"
             }
           ]
         },

@@ -19,9 +19,6 @@ namespace Presentation
         private readonly IFileService _fileService;
         private readonly IMonitorService _monitorService;
         private readonly PluginManager _pluginManager;
-
-
-
         public Form1()
         {
             InitializeComponent();
