@@ -1,0 +1,10 @@
+D:\Projects\TestFileWatcher\FileWatcher\bin\Debug\netstandard2.0\FileWatcher.deps.json
+D:\Projects\TestFileWatcher\FileWatcher\bin\Debug\netstandard2.0\FileWatcher.dll
+D:\Projects\TestFileWatcher\FileWatcher\bin\Debug\netstandard2.0\FileWatcher.pdb
+D:\Projects\TestFileWatcher\FileWatcher\obj\Debug\netstandard2.0\FileWatcher.csproj.AssemblyReference.cache
+D:\Projects\TestFileWatcher\FileWatcher\obj\Debug\netstandard2.0\FileWatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TestFileWatcher\FileWatcher\obj\Debug\netstandard2.0\FileWatcher.AssemblyInfoInputs.cache
+D:\Projects\TestFileWatcher\FileWatcher\obj\Debug\netstandard2.0\FileWatcher.AssemblyInfo.cs
+D:\Projects\TestFileWatcher\FileWatcher\obj\Debug\netstandard2.0\FileWatcher.csproj.CoreCompileInputs.cache
+D:\Projects\TestFileWatcher\FileWatcher\obj\Debug\netstandard2.0\FileWatcher.dll
+D:\Projects\TestFileWatcher\FileWatcher\obj\Debug\netstandard2.0\FileWatcher.pdb
